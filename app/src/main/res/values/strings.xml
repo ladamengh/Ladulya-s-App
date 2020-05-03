@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Ladulya\'s App</string>
+    <string name="username">Имя пользователя</string>
+    <string name="email">Адрес электронной почты (email)</string>
+    <string name="password">Пароль</string>
+    <string name="register">Зарегистрироваться</string>
+    <string name="registration_toolbar_title">Регистрация</string>
+    <string name="reg_title">Создание нового аккаунта</string>
+    <string name="login">Войти</string>
+    <string name="login_toolbar_title">Регистрация</string>
+    <string name="login_title">Авторизация пользователя</string>
+</resources>
